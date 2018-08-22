@@ -1,3 +1,3 @@
 # j01g3q-dufklyh
-made by G01D3N And G01D3NS4W
-change color to blue
+ n01k3u huk n01k3uz4d
+
