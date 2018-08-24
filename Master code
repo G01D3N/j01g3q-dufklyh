@@ -13,3 +13,4 @@ Use `bundle show [gemname]` to see where a bundled gem is installed.
 ---
 
 @import "{{ site.theme }}";
+https://github.com/pages-themes/Gold/blob/master/_layouts/default.html
