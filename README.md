@@ -1,7 +1,4 @@
-# j01g3q-dufklyh
-thkl if n01k3u huk n01k3uz4d
-
-#Robot
+# Robot
 /ˈrōˌbät,ˈrōbət/
 robota - Forced labor 
 R.U.R - Rossum's Universal Robots
@@ -12,3 +9,4 @@ synonyms:	automaton, android, golem;
 synonyms:	automaton, android, golem
 used to refer to a person who behaves in a mechanical or unemotional manner.
 "public servants are not expected to be mindless robots"
+thkl if n01k3u huk n01k3uz4d
